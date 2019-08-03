@@ -19,11 +19,11 @@ var items = [
     ["Dakke",["5Dtre2Yiw78" ], "profil/Hannah.png"], 
     ["Vino Blomst", ["N8t078YDojM"],"profil/Jonas.jpg"], 
     ["Træspritten", ["SMaVii7nnj4"], "profil/Helene.jpg"], 
-  //  ["Bolle", ["dDu_wOTRXIM"], "profil/Louise.jpg"], 
-  //  ["Bunde", ["uCRT8IItGpw", "n09xzMb1tdg", "otCpCn0l4Wo", "QFtnV6pMqvA", "bnqBLeg4Jbo"], "profil/Tox.jpg"], 
-  //  ["Ballade", ["VDvr08sCPOc"], "profil/martin.jpg"], 
-  //  ["Baby", ["6nIvBI2_hSY"], "profil/daniel.jpg"], 
-  //  ["Alle", ["dLhFDYQHDQY","n09xzMb1tdg","Wmc8bQoL-J0"], "profil/Rask.jpg"], 
+    ["Bolle", ["dDu_wOTRXIM"], "profil/Louise.jpg"], 
+    ["Bunde", ["uCRT8IItGpw", "n09xzMb1tdg", "otCpCn0l4Wo", "QFtnV6pMqvA", "bnqBLeg4Jbo"], "profil/Tox.jpg"], 
+    ["Ballade", ["VDvr08sCPOc"], "profil/martin.jpg"], 
+    ["Baby", ["6nIvBI2_hSY"], "profil/daniel.jpg"], 
+   ["Alle", ["dLhFDYQHDQY","n09xzMb1tdg","Wmc8bQoL-J0"], "profil/Rask.jpg"], 
   ];
 
 var extrafield = ["Alle", ["VEVDcuqW01Y", "AgFeZr5ptV8", "0NTDqqnH9Bk","04854XqcfCY"], "profil/alle.jpg"];
