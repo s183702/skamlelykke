@@ -8,12 +8,9 @@ var app = new function() {
     ["Sir Flex Alot", ["r2LpOUwca94", "OI3shBXlqsw", "VXd3MyFkLOk"], "profil/frederik.jpg"], 
     ["Dakke",["5Dtre2Yiw78" ], "profil/Hannah.png"], 
     ["Vino Blomst", ["N8t078YDojM"],"profil/Jonas.jpg"], 
-    ["Træspritten", ["SMaVii7nnj4"], "profil/Helene.jpg"], 
-    ["Bolle", ["dDu_wOTRXIM"], "profil/Louise.jpg"], 
-    ["Bunde", ["uCRT8IItGpw", "n09xzMb1tdg", "otCpCn0l4Wo", "QFtnV6pMqvA", "bnqBLeg4Jbo"], "profil/Tox.jpg"], 
-    ["Ballade", ["VDvr08sCPOc"], "profil/martin.jpg"], 
-    ["Baby", ["6nIvBI2_hSY"], "profil/daniel.jpg"], 
-   ["Alle", ["dLhFDYQHDQY","n09xzMb1tdg","Wmc8bQoL-J0"], "profil/Rask.jpg"], 
+    ["Træspritten", ["L_jWHffIx5E"], "profil/Helene.jpg"], 
+    ["Smølfer", ["dDu_wOTRXIM"], "profil/Louise.jpg"], 
+   ["Alle", ["bNJDFlWh2kI"], "profil/Rask.jpg"], 
     ];
 
   this.Count = function() {

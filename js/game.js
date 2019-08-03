@@ -2,7 +2,7 @@ var game;
 var wheel;
 var canSpin;
 //var antalslices = prompt("Hvor mange personer er i? (2-100)","18")
-var hjulfarver = [0x990000, 0xF6D04D]
+var hjulfarver = [0xFF0000, 0xFFFF00]
 var hjulradius = 350
 var latestHits = [];
 
@@ -18,12 +18,9 @@ var items = [
     ["Sir Flex Alot", ["r2LpOUwca94", "OI3shBXlqsw", "VXd3MyFkLOk"], "profil/frederik.jpg"], 
     ["Dakke",["5Dtre2Yiw78" ], "profil/Hannah.png"], 
     ["Vino Blomst", ["N8t078YDojM"],"profil/Jonas.jpg"], 
-    ["Træspritten", ["SMaVii7nnj4"], "profil/Helene.jpg"], 
-    ["Bolle", ["dDu_wOTRXIM"], "profil/Louise.jpg"], 
-    ["Bunde", ["uCRT8IItGpw", "n09xzMb1tdg", "otCpCn0l4Wo", "QFtnV6pMqvA", "bnqBLeg4Jbo"], "profil/Tox.jpg"], 
-    ["Ballade", ["VDvr08sCPOc"], "profil/martin.jpg"], 
-    ["Baby", ["6nIvBI2_hSY"], "profil/daniel.jpg"], 
-   ["Alle", ["dLhFDYQHDQY","n09xzMb1tdg","Wmc8bQoL-J0"], "profil/Rask.jpg"], 
+    ["Træspritten", ["L_jWHffIx5E"], "profil/Helene.jpg"], 
+    ["Smølfer", ["dDu_wOTRXIM"], "profil/Louise.jpg"], 
+   ["Alle", ["bNJDFlWh2kI"], "profil/Rask.jpg"], 
   ];
 
 var extrafield = ["Alle", ["VEVDcuqW01Y", "AgFeZr5ptV8", "0NTDqqnH9Bk","04854XqcfCY"], "profil/alle.jpg"];
