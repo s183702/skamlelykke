@@ -18,7 +18,7 @@ var items = [
     ["Sir Flex Alot", ["r2LpOUwca94", "OI3shBXlqsw", "VXd3MyFkLOk"], "profil/frederik.jpg"], 
     ["Dakke",["5Dtre2Yiw78" ], "profil/Hannah.png"], 
     ["Vino Blomst", ["N8t078YDojM"],"profil/Jonas.jpg"], 
-    ["Træspritten", ["L_jWHffIx5E"], "profil/Helene.jpg"], 
+    ["Træspritten", ["5ZYgIrqELFw"], "profil/Helene.jpg"], 
     ["Smølfer", ["dDu_wOTRXIM"], "profil/Louise.jpg"], 
    ["Alle", ["bNJDFlWh2kI"], "profil/Rask.jpg"], 
   ];
