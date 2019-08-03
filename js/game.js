@@ -11,32 +11,19 @@ var latestHits = [];
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var items = [
-    ["Skipper",["YPV8LqSRSDg","CO0BXaawfZ0","trS2nrkN0_k"],"profil/andrias.jpg"],
-    ["Kristian",["6I-BTlgcVqU"], "profil/Daf.jpg"], 
-    ["Havflækkeren", ["ytWz0qVvBZ0", "qkbs33sxHLA"], "profil/fie.jpg"], 
-    ["Gurli", ["Qkuu0Lwb5EM"], "profil/Emilie.jpg"], 
-    ["Trash", ["C9M4rSoC4FY", "b7_aRsk5CJ4", "pRNMePD1v58"], "profil/frederik.jpg"], 
-    ["Kim",["3ij_pUtJJrw", "DUT5rEU6pqM"], "profil/Hannah.png"], 
-    ["Kinky", ["C9M4rSoC4FY"],"profil/Jonas.jpg"], 
-    ["Crocs", ["SMaVii7nnj4"], "profil/Helene.jpg"], 
-    ["Wingardium", ["Qa_2C15Uh5c"], "profil/Louise.jpg"], 
-    ["Emil", ["uCRT8IItGpw", "n09xzMb1tdg", "otCpCn0l4Wo", "QFtnV6pMqvA", "bnqBLeg4Jbo"], "profil/Tox.jpg"], 
-    ["Morten", ["VDvr08sCPOc"], "profil/martin.jpg"], 
-    ["Spock", ["6nIvBI2_hSY", "LWqyrGoUcDQ"], "profil/daniel.jpg"], 
-    ["Styrmand", ["dLhFDYQHDQY","n09xzMb1tdg","Wmc8bQoL-J0"], "profil/Rask.jpg"], 
-    ["Franz", ["HMqgVXSvwGo","DEsqGOHo0nI",], "profil/Mathias.jpg"], 
-    ["Fabian", ["kaQcfMFE9Fs", "fSDDn4l8JoQ"], "profil/Grove.jpg"], 
-    ["Kunsjatter", ["y9ongoen_oQ", "uYeHPFR3f0", "LUlZ5n0cyak","qc_F4_zLn4k","CaW-zbBnpnE","LbenCTAwyco","LDU_Txk06tM"],"profil/Niels.jpg"], 
-    ["Mario-hee", ["y1nM4OKvoXw","2KBFD0aoZy8"], "profil/emma.jpg"],
-    ["Mario-hoo", ["1w7OgIMMRc4","o1tj2zJ2Wvg","Rbm6GXllBiw"], "profil/Rose.jpg"],
-    ["Søren", ["elVLeQX6IUU"], "profil/Jens.jpg"], // 
-    ["Shaggy", ["ULrxa1KVzZU","mdqU6Erw3kk","nQV7DKBqGdk","vMfObaxYBV8"], "profil/Sebastian.jpg"],
-    ["Bundemir", ["kJQP7kiw5Fk","KlyXNRrsk4A","tAp9BKosZXs","F57P9C4SAW4"], "profil/Victor.jpg"],
-    ["Sten", ["hwwg8st_5W4"], "profil/Mie.jpg"],
-    ["Fuldemir", ["eA9u-MF_H6Y","VrAu6ve8F6Y","oxWfTs1psoM"], "profil/simon.jpg"],
-    ["Lars", ["0HENeKIztcQ"], "profil/Oscar.jpg"],
-    ["Såla’", ["unfzfe8f9NI","KoyNlVQbUPc","XEjLoHdbVeE"], "profil/Marie.jpg"],
-    ["Darth", ["4fndeDfaWCg", "POq2AznJO1Q", "aBt8fN7mJNg", "5rmKy8H62BU"], "profil/Rolf.jpg"]
+    ["Puke",[""],"profil/andrias.jpg"],
+    ["Tramp",["QiFBgtgUtfw"], "profil/Daf.jpg"], 
+    ["Pony", ["0rjZctQddOo"], "profil/fie.jpg"], 
+    ["Bongduella", ["ZyhrYis509A"], "profil/Emilie.jpg"], 
+    ["Sir Flex Alot", ["r2LpOUwca94", "OI3shBXlqsw", "VXd3MyFkLOk"], "profil/frederik.jpg"], 
+    ["Dakke",["5Dtre2Yiw78" ], "profil/Hannah.png"], 
+    ["Vino Blomst", ["N8t078YDojM"],"profil/Jonas.jpg"], 
+    ["Træspritten", ["SMaVii7nnj4"], "profil/Helene.jpg"], 
+  //  ["Bolle", ["dDu_wOTRXIM"], "profil/Louise.jpg"], 
+  //  ["Bunde", ["uCRT8IItGpw", "n09xzMb1tdg", "otCpCn0l4Wo", "QFtnV6pMqvA", "bnqBLeg4Jbo"], "profil/Tox.jpg"], 
+  //  ["Ballade", ["VDvr08sCPOc"], "profil/martin.jpg"], 
+  //  ["Baby", ["6nIvBI2_hSY"], "profil/daniel.jpg"], 
+  //  ["Alle", ["dLhFDYQHDQY","n09xzMb1tdg","Wmc8bQoL-J0"], "profil/Rask.jpg"], 
   ];
 
 var extrafield = ["Alle", ["VEVDcuqW01Y", "AgFeZr5ptV8", "0NTDqqnH9Bk","04854XqcfCY"], "profil/alle.jpg"];
