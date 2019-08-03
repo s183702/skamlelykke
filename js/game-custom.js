@@ -10,7 +10,7 @@ var hjulradius = 350
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var itemsOld = [
-    ["Skipper",["YPV8LqSRSDg","CO0BXaawfZ0","trS2nrkN0_k"],"profil/andrias.jpg"],
+    ["Torben",["YPV8LqSRSDg","CO0BXaawfZ0","trS2nrkN0_k"],"profil/andrias.jpg"],
     ["Kristian",["6I-BTlgcVqU"], "profil/Daf.jpg"], 
     ["Havflækkeren", ["ytWz0qVvBZ0", "qkbs33sxHLA"], "profil/fie.jpg"], 
     ["Gurli", ["Qkuu0Lwb5EM"], "profil/Emilie.jpg"], 
