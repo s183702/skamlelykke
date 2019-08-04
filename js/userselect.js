@@ -10,7 +10,6 @@ var app = new function() {
     ["Vino Blomst", ["N8t078YDojM"],"profil/Jonas.jpg"], 
     ["Træspritten", ["5ZYgIrqELFw"], "profil/Helene.jpg"], 
     ["Smølfer", ["dDu_wOTRXIM"], "profil/Louise.jpg"], 
-   ["Alle", ["bNJDFlWh2kI"], "profil/Rask.jpg"], 
     ];
 
   this.Count = function() {

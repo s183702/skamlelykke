@@ -20,10 +20,9 @@ var items = [
     ["Vino Blomst", ["N8t078YDojM"],"profil/Jonas.jpg"], 
     ["Træspritten", ["5ZYgIrqELFw"], "profil/Helene.jpg"], 
     ["Smølfer", ["dDu_wOTRXIM"], "profil/Louise.jpg"], 
-   ["Alle", ["bNJDFlWh2kI"], "profil/Rask.jpg"], 
   ];
 
-var extrafield = ["Alle", ["VEVDcuqW01Y", "AgFeZr5ptV8", "0NTDqqnH9Bk","04854XqcfCY"], "profil/alle.jpg"];
+var extrafield = ["Alle", ["bNJDFlWh2kI"], "profil/alle.jpg"];
 var antalslices = items.length
 // KORREKT YOUTUBE URL Med autoplay og start ved 0:30 sek mark
 // https://www.youtube.com/embed/2YllipGl2Is?start=30&autoplay=1

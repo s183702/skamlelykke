@@ -17,14 +17,13 @@ var itemsOld = [
     ["Sir Flex Alot", ["r2LpOUwca94", "OI3shBXlqsw", "VXd3MyFkLOk"], "profil/frederik.jpg"], 
     ["Dakke",["5Dtre2Yiw78" ], "profil/Hannah.png"], 
     ["Vino Blomst", ["N8t078YDojM"],"profil/Jonas.jpg"], 
-    ["Træspritten", ["L_jWHffIx5E"], "profil/Helene.jpg"], 
-    ["Smølfer", ["dDu_wOTRXIM"], "profil/Louise.jpg"], 
-   ["Alle", ["bNJDFlWh2kI"], "profil/Rask.jpg"],  
+    ["Træspritten", ["5ZYgIrqELFw"], "profil/Helene.jpg"], 
+    ["Smølfer", ["dDu_wOTRXIM"], "profil/Louise.jpg"],   
   ];
 
 var items = JSON.parse(sessionStorage.getItem('customLykkehjul'));
 var antalslices = items.length;
-var extrafield = ["Alle", ["VEVDcuqW01Y", "AgFeZr5ptV8", "0NTDqqnH9Bk","04854XqcfCY"], "profil/alle.jpg"] // 
+var extrafield = ["Alle", ["bNJDFlWh2kI"], "profil/alle.jpg"] // 
 
 // KORREKT YOUTUBE URL Med autoplay og start ved 0:30 sek mark
 // https://www.youtube.com/embed/2YllipGl2Is?start=30&autoplay=1
