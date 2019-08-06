@@ -1,7 +1,7 @@
 var app = new function() {
   this.el = document.getElementById('names');
   this.names = [
-    ["Puke",[""],"profil/andrias.jpg"],
+    ["Puke",["swivbEsD50"],"profil/andrias.jpg"],
     ["Tramp",["QiFBgtgUtfw"], "profil/Daf.jpg"], 
     ["Pony", ["0rjZctQddOo"], "profil/fie.jpg"], 
     ["Bongduella", ["ZyhrYis509A"], "profil/Emilie.jpg"], 
