@@ -10,7 +10,7 @@ var hjulradius = 350
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var itemsOld = [
-   ["Puke",[""],"profil/andrias.jpg"],
+   ["Puke",["swivbEsD50"],"profil/andrias.jpg"],
     ["Tramp",["QiFBgtgUtfw"], "profil/Daf.jpg"], 
     ["Pony", ["0rjZctQddOo"], "profil/fie.jpg"], 
     ["Bongduella", ["ZyhrYis509A"], "profil/Emilie.jpg"], 
